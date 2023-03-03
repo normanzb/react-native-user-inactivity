@@ -27,7 +27,7 @@
   "author": "Alberto Schiabel (https://github.com/jkomyno)",
   "license": "MIT",
   "dependencies": {
-    "usetimeout-react-hook": "github:normanzb/usetimeout-react-hook#master"
+    "usetimeout-react-hook": "github:normanzb/usetimeout-react-hook#v0.1.3"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
@@ -38,7 +38,7 @@
     "tslib": "^1.10.0",
     "tslint": "^5.18.0",
     "tslint-react": "^3.6.0",
-    "typescript": "^3.5.3",
+    "typescript": "^4.9.5",
     "ws": ">=3.3.1"
   },
   "peerDependencies": {
